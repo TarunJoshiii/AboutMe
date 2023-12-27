@@ -11,7 +11,6 @@
 ###
 <p align="left">Hi Welcome to my Github </p>
 <p align="left">I'm an experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in .NET Core, C#. NET Framework, Rest APIs, Java , Search Engine Optimization (SEO) and HTML. Strong engineering professional with a Bachelor of Technology - B.Tech focused in Computer Science from Kurukshetra university.  </p>
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ReactJs, .NET Framework, Azure, AWS</p>
 
 ###
 
